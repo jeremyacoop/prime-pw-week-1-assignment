@@ -1,6 +1,6 @@
 /* Give your page a fun background color */
 html {
-  background-color: gray;
+  background-color: #35BDFF;
 }
 
 /* Make the header and footer a different color from the background */
@@ -20,9 +20,13 @@ p {
 }
 
 /* Put a border around your image */
-#mainimage {
+img {
   border: 3px;
-  border-color: red;
+  border-style: solid;
+  border-color: white;
 }
 
 /* Change the font-family of your list */
+ul {
+  font-family: monospace;
+}

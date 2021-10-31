@@ -13,11 +13,8 @@
     mkdir [folder]
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-    When empty:
-    ..
-    When containing files:
-    ..
-    [file names]
+    When empty: nothing
+    When containing files: [list of file names]
 
 # 6 - What is a quick way to create a new file?
     touch [file]
