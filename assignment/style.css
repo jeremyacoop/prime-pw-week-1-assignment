@@ -1,6 +1,6 @@
 /* Give your page a fun background color */
-html {
-  background-color: #35BDFF;
+body {
+  background-color: lightblue;
 }
 
 /* Make the header and footer a different color from the background */
